@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This project is based on a real news article found on the Washington Post's website detailing the events occurring in Burns, OR this weekend. This project gave the developers the opportunity to explore manipulating markdown files as well as practicing git commits. Doesn't do much concerning anything interactive.}_
+_{This project is based on a real news article found on the Washington Post's website detailing the events occurring in Burns, OR this weekend. This project gave the developers the opportunity to practice using markdown, git and html. Doesn't do much concerning anything interactive.}_
 
 ## Setup/Installation Requirements
 
@@ -24,7 +24,7 @@ _{If issues arise, please contact Gracie or Blake at gracielundell@gmail.com or 
 
 ## Technologies Used
 
-_{This project was written using Markdown as the only language. Dillinger was used as a previewing tool.}_
+_{This project was written using Markdown, with Dillinger used as a previewing tool.  A second version was written in html.}_
 
 ### License
 *{This software is licensed under the MIT license.}*
