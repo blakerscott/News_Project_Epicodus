@@ -40,3 +40,6 @@ You will note that while the group gathered in Oregon is almost assuredly all or
 You will note the extended debate about whether admitted Charleston shooter Dylann Roof's apparently racially motivated shooting spree was an act of terrorism or even violent racism and the comparatively rapid way that more than one news organization began hinting at and then using terms such as Islamic extremism to describe the mass shooting in San Bernardino, Calif.
 
 The sometimes-coded but increasingly overt ways that some Americans are presumed guilty and violence-prone while others are assumed to be principled and peaceable unless and until provoked — even when actually armed — is remarkable.
+
+
+For the full article, go [here](https://www.washingtonpost.com/news/the-fix/wp/2016/01/03/why-arent-we-calling-the-oregon-militia-terrorists/?hpid=hp_hp-top-table-main_fixoregon-6am%3Ahomepage%2Fstory).
